@@ -1,5 +1,5 @@
 {
   "hooks": {
-    "pre-commit": "lint-staged"
+    "pre-commit": "C:/Users/oshana/AppData/Roaming/npm/yarn prerelease"
   }
 }
